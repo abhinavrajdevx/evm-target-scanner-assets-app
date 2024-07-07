@@ -1,2 +1,3 @@
 # evm-target-scanner-assets-app
-This is a asset for EVM target Scanner app..
+
+These are only assets for the app : ERC20 Target Scanner.
