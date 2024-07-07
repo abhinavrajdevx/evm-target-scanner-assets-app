@@ -1,1 +1,1 @@
-1.0.0
+1.0.0 https://github.com/abhinavrajdevx/evm-target-scanner-assets-app/edit/main/version.txt
